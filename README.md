@@ -20,7 +20,7 @@ Solutions for the LeetCode Coding Problems
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s2de60dfd252ce07c/image/i0cc5e148cce00046/version/1559501611/image.png" width="200" height="200"/>
 
-<img src="https://www.cbronline.com/wp-content/uploads/2016/07/C.png" width="275" height="190"/> <img src="https://4.bp.blogspot.com/-gTiw6OELPy0/XJorCue1joI/AAAAAAAACkA/mII85pOuZKYLQlFx6wjkxgkJYrULjv4hQCLcBGAs/s1600/java.png" width="265" height="170"/>
+<img src="https://www.cbronline.com/wp-content/uploads/2016/07/C.png" width="275" height="190"/> <img src="https://4.bp.blogspot.com/-gTiw6OELPy0/XJorCue1joI/AAAAAAAACkA/mII85pOuZKYLQlFx6wjkxgkJYrULjv4hQCLcBGAs/s1600/java.png" width="240" height="150"/>
 
 
 
