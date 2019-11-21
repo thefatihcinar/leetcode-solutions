@@ -7,5 +7,5 @@ Solutions for the LeetCode Coding Problems
 | #      | Title     | Implemented Language(s)     | Category    |
 | :------------- | :----------: | -----------: |-----------:  |
 |  Cell Contents | More Stuff   | And Again    | |
-| You Can Also   | Put Pipes In | Like this \| |<p style="text-align: center;">Centered text</p> |
+| You Can Also   | Put Pipes In | Like this \| | |
 | [GitHub](http://github.com)  | [Google](http://google.com) | [Apple](http:apple.com) | |
