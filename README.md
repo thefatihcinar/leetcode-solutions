@@ -13,3 +13,5 @@ Solutions for the LeetCode Coding Problems
  [Apple](http:apple.com)
 
 *Still*
+
+<img src="https://miro.medium.com/max/828/1*SaeiqEJxjJ1-2XNXgEtiLw.png" width="351" height="169"/>
