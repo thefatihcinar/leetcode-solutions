@@ -2,7 +2,11 @@
 Solutions for the LeetCode Coding Problems
 
 <img src="https://miro.medium.com/max/828/1*SaeiqEJxjJ1-2XNXgEtiLw.png" width="351" height="169"/>
-
+<style>
+table {
+    width:100%;
+}
+</style>
 
  
 |   #   |  Title     |  Language     |  Category    |
