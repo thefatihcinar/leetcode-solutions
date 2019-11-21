@@ -6,7 +6,7 @@ Solutions for the LeetCode Coding Problems
 
 |   #   |  Title     |  Language     |  Category    |
 | :----: | :---------------------: | :-----------: |:-----------:  |
-|  168 | Excel Sheet Column Title   |  [C++](./Solutions/168. Excel Sheet Column Title/second.c)  | Mathematics\Graphs|
+|  168 | Excel Sheet Column Title   |  [C++](https://github.com/fatihcinar1/leetcode-solutions/Solutions/168. Excel Sheet Column Title/second.c)  | Mathematics\Graphs|
 | 1545| Put Pipes In |  [c++](http:apple.com)| | |
 
 
