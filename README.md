@@ -12,9 +12,3 @@ Solutions for the LeetCode Coding Problems
 
  [Apple](http:apple.com)
 
-
-
-|   #      |  Title     |  Language     |  Category    |
-| :------------- | :----------: | :-----------: |-----------:  |
-|  168 | Excel Sheet Column Title   |  [C++](./Solutions/168. Excel Sheet Column Title/second.c)  | |
-| You Can Also   | Put Pipes In |  [c++](http:apple.com)| | |
