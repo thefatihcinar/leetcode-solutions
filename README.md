@@ -1,8 +1,7 @@
-# leetcode-solutions
+# LEETCODE SOLUTIONS
 Solutions for the LeetCode Coding Problems
 
-
-<img src="https://miro.medium.com/max/828/1*SaeiqEJxjJ1-2XNXgEtiLw.png"/>
+<img src="https://miro.medium.com/max/828/1*SaeiqEJxjJ1-2XNXgEtiLw.png" width="351" height="169"/>
 
 |   #   |  Title     |  Language     |  Category    |
 | :---: | :------------------------------------------------: | :---: |:---:  |
@@ -14,4 +13,4 @@ Solutions for the LeetCode Coding Problems
 
 *Still*
 
-<img src="https://miro.medium.com/max/828/1*SaeiqEJxjJ1-2XNXgEtiLw.png" width="351" height="169"/>
+
