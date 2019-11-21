@@ -6,7 +6,7 @@ Solutions for the LeetCode Coding Problems
 
 |   #      |  Title     |  Language     |  Category    |
 | :------------- | :----------: | -----------: |-----------:  |
-|  Cell Contents | More Stuff   | And Again\nthis    | |
+|  168 | Excel Sheet Column Title   |  [C++](./Solutions/168. Excel Sheet Column Title/second.c )  | |
 | You Can Also   | Put Pipes In | Like this \| | |
 
 
