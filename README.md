@@ -18,4 +18,4 @@ Solutions for the LeetCode Coding Problems
 
 
 
-<img src="https://library.kissclipart.com/20180927/ajq/kissclipart-c-c-icon-clipart-the-c-programming-language-th-d64c93203a84b298.jpg" width="300" height="300"/>
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s2de60dfd252ce07c/image/i0cc5e148cce00046/version/1559501611/image.png" width="250" height="250"/>
