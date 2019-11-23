@@ -6,7 +6,7 @@ Solutions for the LeetCode Coding Problems
  
 |   #   |  Title     |  Language     |  Category    |
 | :---: | :------------------------------------------------: | :---: |:---:  |
-|  70 | Climbing Stairs  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
+|  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
 | 1545| Put Pipes In |  [c++](http:apple.com)| | |
 |  168 | Excel Sheet Column Title   |  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/168.%20Excel%20Sheet%20Column%20Title/second.c) <br/>  [C](http:apple.com)  |`Dynamic Programming`|
 
