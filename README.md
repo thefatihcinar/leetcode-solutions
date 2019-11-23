@@ -7,7 +7,7 @@ Solutions for the LeetCode Coding Problems
 |   #   |  Title     |  Language     |  Category    |
 | :---: | :------------------------------------------------: | :---: |:---:  |
 |  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
-|  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
+
 
 
  [Apple](http:apple.com)
