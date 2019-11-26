@@ -11,6 +11,7 @@ Solutions for the LeetCode Coding Problems
 |  234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/234.%20Palindrome%20Linked%20List/234-palindrome-linked-list.cpp)    |`Linked List` <br/> `Math` |
 |  258 | [Add Digits](https://leetcode.com/problems/add-digits/)  | [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/258.%20Add%20Digits/258-add-digits.py) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/258.%20Add%20Digits/258-add-digits.cpp)    |  `Math` |
 |  7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/7.%20Reverse%20Integer/7-reverse-integer.cpp)    |`Math` |
+|  1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1.%20Two%20Sum/1-two-sum.cpp)  <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1.%20Two%20Sum/1-two-sum.c)     |`Array` |
 
 
 *This is italic form*
