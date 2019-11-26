@@ -8,7 +8,7 @@ Solutions for the LeetCode Coding Problems
 | :---: | :------------------------------------------------: | :---: |:---:  |
 |  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
 |  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.cpp) <br/>  [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.java) <br/>  [C#](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.cs)  <br/>  [JavaScript](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.js)     |`Math`|
-
+|  234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/234.%20Palindrome%20Linked%20List/234-palindrome-linked-list.cpp)    |`Linked List` <br/> `Math` |
 
 
 
