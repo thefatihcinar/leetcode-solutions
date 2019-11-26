@@ -28,7 +28,7 @@ public:
         }
 
         return result;
-        
+
     }
 private:
     int AccumulateDigits(int number){
@@ -54,11 +54,13 @@ private:
 };
 
 
+/* THIS PART IS FOR TESTING */
+
 int main(){
 
-    Solution solution;
+    Solution solution; 
 
-    enum info { length = 14};
+    enum info {length = 14};
 
     int testCases[length] = {0, 10, 38, 49, 41, 
                         456, 98123, 4923, 441, 
@@ -66,7 +68,7 @@ int main(){
 
     for(int x = 0; x < length; x++){
         cout << "Number: " << testCases[x] << "\t"
-             << "Added Digits: " << solution.addDigits(testCases[x]) << endl;
+             << "Reduced Digits: " << solution.addDigits(testCases[x]) << endl;
     }
 
 
