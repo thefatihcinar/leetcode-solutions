@@ -16,7 +16,6 @@ Solutions for the LeetCode Coding Problems
 
 
 
-https://leetcode.com/problems/excel-sheet-column-title/
 
 
 *This is italic form*
@@ -24,7 +23,7 @@ https://leetcode.com/problems/excel-sheet-column-title/
 
 
 
-
+|  1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)  | [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/1232-check-if-it-is-a-straight-line.py) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/1232-check-if-it-is-a-straight-line.cpp)    |  `Array` <br/> `Math` <br/> `Geometry` |
 
 
 
