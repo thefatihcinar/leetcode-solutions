@@ -4,6 +4,7 @@ Solutions for the LeetCode Coding Problems
 
 
 <img src="https://publiclab.org/system/images/photos/000/030/759/original/code.jpg">
+<br>
  
 |   #   |  Title     |  Language     |  Category    |
 | :---: | :------------------------------------------------: | :---: |:---:  |
@@ -22,7 +23,7 @@ Solutions for the LeetCode Coding Problems
 
 
 
-
+<br><br><br><br>
 
 
 <!--
