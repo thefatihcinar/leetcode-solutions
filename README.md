@@ -26,9 +26,7 @@ Solutions for the LeetCode Coding Problems
 |  1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1108.%20Defanging%20an%20IP%20Address/1108-defanging-an-ip-address.cpp)    |  `String` |
 |  1051 | [Height Checker](https://leetcode.com/problems/height-checker/)  | [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1051.%20Height%20Checker/1051-height-checker.py) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1051.%20Height%20Checker/1051-height-checker.cpp)    |  `Array` |
 |  1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)  | [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/1232-check-if-it-is-a-straight-line.py) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/1232-check-if-it-is-a-straight-line.cpp)    |  `Array` <br/> `Math` <br/> `Geometry` |
-
-
-
+|  1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)  | [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/1344-angle-between-hands-of-a-clock.java) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/1344-angle-between-hands-of-a-clock.cpp)    | `Math` |
 
 
 <br><br><br><br>
