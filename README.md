@@ -11,6 +11,7 @@ Solutions for the LeetCode Coding Problems
 |  1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1.%20Two%20Sum/1-two-sum.cpp)  <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1.%20Two%20Sum/1-two-sum.c)     |`Array` |
 |  7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/7.%20Reverse%20Integer/7-reverse-integer.cpp)    |`Math` |
 |  9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.cpp) <br/>  [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.java) <br/>  [C#](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.cs)  <br/>  [JavaScript](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/9.%20Palindrome%20Number/9-palindrome.js)     |`Math`|
+|  12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.cpp) <br/> [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.java) |`Math` <br/> `String` |
 |  13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/13.%20Roman%20to%20Integer/13-roman-to-integer.cpp)    |`Math` <br/> `String` |
 |  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
 |  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/125.%20Valid%20Palindrome/125-valid-palindrome.cpp)    |`Two Pointers` <br/> `String` |
@@ -44,7 +45,7 @@ Solutions for the LeetCode Coding Problems
 
 
 
-|  12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.cpp) <br/> [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.java) |`Math` <br/> `String` |
+
 
 
 
