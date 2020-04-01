@@ -14,7 +14,7 @@ Solutions for the LeetCode Coding Problems
 |  12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.cpp) <br/> [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/12.%20Integer%20to%20Roman/12-integer-to-roman.java) |`Math` <br/> `String` |
 |  13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/13.%20Roman%20to%20Integer/13-roman-to-integer.cpp)    |`Math` <br/> `String` |
 |  70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.py) <br/> [C](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.c) <br/>  [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/70.%20Climbing%20Stairs/70-climbing-stairs.cpp)    |`Dynamic Programming`|
-|  118 | [Pascal's Triangle](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/118.%20Pascal's%20Triangle/118-pascals-triangle.cpp)    |  `Array` |
+
 |  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/125.%20Valid%20Palindrome/125-valid-palindrome.cpp)    |`Two Pointers` <br/> `String` |
 |  168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/168.%20Excel%20Sheet%20Column%20Title/168-excel-sheet-column-title.cpp) <br/> [Python](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/168.%20Excel%20Sheet%20Column%20Title/168-excel-sheet-column-title.py)    |`Math` |
 |  202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/202.%20Happy%20Number/202-happy-number.cpp)    |`Hash Table` <br/> `Math` |
@@ -32,7 +32,7 @@ Solutions for the LeetCode Coding Problems
 |  1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)  | [Java](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/1344-angle-between-hands-of-a-clock.java) <br/> [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock/1344-angle-between-hands-of-a-clock.cpp)    | `Math` |
 
 
-
+|  118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](https://github.com/fatihcinar1/leetcode-solutions/blob/master/Solutions/118.%20Pascal's%20Triangle/118-pascals-triangle.cpp)    |  `Array` |
 
 <br><br><br><br>
 
